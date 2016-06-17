@@ -5,3 +5,32 @@ When we initialize a repository a .git file is created in the folder. That file 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is the location where files are added before the intial commit. Staging area acts a cache area and we can revert the files before commiting.
 
+How can you use the staging area to make sure you have one commit per logical change?
+By making sure that staging area is empty before adding files from the working directory
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches can be used when there is trying out a new functionality which may or may not work or when creating a language specific product etc
+
+Branches help us to copy code of the master branch and keeping the experiment seperate instead of messing up the main code.
+
+How do the diagrams help you visualize the branch structure?
+understand which commits are made on a seperate branch
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The coding of the two branches get merged without missing the coding
+
+Easily understand the process of the merge criteria
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging reduces the effort of the user
+
+Cons:
+Might override others work
+
+
+
+
+
+
+
