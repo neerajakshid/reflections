@@ -13,5 +13,7 @@ Clones: Used to copy an existing repository to another location
 
 Branches: Used to create a seperate copy of the existing code and make specific changes without affecting the master code
           Used while experimenting a new functionality to the working code
-          
-          
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+useful when the uer plans to work offline.
+
