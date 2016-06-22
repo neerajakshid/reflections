@@ -17,3 +17,6 @@ Branches: Used to create a seperate copy of the existing code and make specific 
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 useful when the uer plans to work offline.
 
+5. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+when experimenting on a sepereate business logic without affecting the existing code.
+
